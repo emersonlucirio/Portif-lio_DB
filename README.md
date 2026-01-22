@@ -3,6 +3,8 @@
 Bem-vindo ao meu portfólio!  
 Este repositório reúne meus estudos, projetos e práticas na área de **Banco de Dados**, com foco em **modelagem, consultas, administração e análise de dados**.
 
+https://emersonlucirio.github.io/Portif-lio_DB/
+
 ---
 
 ## Sobre Mim
